@@ -1,0 +1,9 @@
+/* Jason Project */
+
+MAS initials {
+
+    infrastructure: Centralised
+
+    agents: monitor;pessoa;clima;
+}
+
